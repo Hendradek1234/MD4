@@ -44,33 +44,34 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/nakataa1.a'
-global.sgh = 'https://github.com/Nakataaard'
-global.sgc = 'https://chat.whatsapp.com/HrmHALYnHsxIwAIbftmdLr'
-global.sdc = 'https://discord.gg/WEJQjugTY7'
-global.snh = 'https://nhentai.net/g/365296/'
+global.sig = ''
+global.sgh = ''
+global.sgc = '
+'
+global.sdc = ''
+global.snh = ''
 
 /*============== PAYMENT ==============*/
-global.pdana = '085748894171'
-global.povo = '085748894171'
-global.pgopay = '085748894171'
-global.ppulsa = '085748894171'
-global.ppulsa2 = '085162634171'
-global.psaweria = 'https://saweria.com/nakata'
+global.pdana = '083181085070'
+global.povo = '083181085070'
+global.pgopay = '083181085070'
+global.ppulsa = '083181085070'
+global.ppulsa2 = '083181085070'
+global.psaweria = ''
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285162634171'
-global.nomorown = '6285748894171'
-global.namebot = 'NahBotz'
-global.nameown = 'Nakata - San'
+global.nomorbot = '24105166540'
+global.nomorown = '24105166540'
+global.namebot = 'HendraaBotz'
+global.nameown = 'Hendraaa'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283143393763'],
-  ['6285712420674'],
-  ['18126338970'],
-  ['6285748894171', 'NAKATA ! 🐰', true]
+  ['24105166540'],
+  ['24105166540'],
+  ['24105166540'],
+  ['24105166540', 'Hendraa ! 🐰', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -116,20 +117,20 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 //GANTI SETERAH MU
-global.wm = '                「 NahBotz- 今、 」' //Main Watermark
-global.wm2 = 'NahBotz -- MultiDevice'
-global.wm3 = '⫹⫺ Nahh *BOTZ*'
+global.wm = '                「 HendraaBotz- 今、 」' //Main Watermark
+global.wm2 = 'HendraaBotz -- MultiDevice'
+global.wm3 = '⫹⫺ HENDRA *BOTZ*'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
-global.author = '                「 NahBotz- 今⁩ 」'
+global.author = '                「 HendeaaBotz- 今⁩ 」'
 
 
 /*============== LOGO ==============*/
 // INI JUGA GANTI SETERAH MU
-global.thumb = 'https://telegra.ph/file/48d3fac67575adbc66370.jpg' //Main Thumbnail
-global.thumb2 = 'https://telegra.ph/file/48d3fac67575adbc66370.jpg'
-global.thumbbc = 'https://telegra.ph/file/d389f4acafac741f6592c.jpg' //For broadcast
+global.thumb = 'https://telegra.ph/file/7c58bf0f8d7574cfc07fa.jpg' //Main Thumbnail
+global.thumb2 = 'https://telegra.ph/file/7c58bf0f8d7574cfc07fa.jpg'
+global.thumbbc = 'https://telegra.ph/file/7c58bf0f8d7574cfc07fa.jpg' //For broadcast
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
